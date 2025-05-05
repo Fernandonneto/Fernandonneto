@@ -4,7 +4,7 @@
 
 🎓 Bacharel em Biblioteconomia e Documentação - UFS
 
-📊Iniciante na área de Ciência de Dados pela EBAC, desenvolvendo habilidades de programação e também em ferramentas como Python, SQL e Power BI.
+📊Dando inicio na área de Ciência de Dados pela EBAC, desenvolvendo habilidades de programação e também em ferramentas como Python, SQL e Power BI.
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
