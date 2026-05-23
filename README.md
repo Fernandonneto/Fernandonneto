@@ -4,9 +4,13 @@
 
 🎓 Bacharel em Biblioteconomia e Documentação - UFS
 
-📊Dando inicio na área de Ciência de Dados pela EBAC, desenvolvendo habilidades de programação e também em ferramentas como Python, SQL e Power BI.
+📊 Data Analyst / Cientista de Dados em formação pela EBAC, com foco em análise de dados, visualização de dashboards e automação utilizando Python, SQL e Power BI.
+
+🚀 Desenvolvendo projetos práticos voltados para Business Intelligence, organização estratégica da informação e tomada de decisão baseada em dados.
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power_BI-F7D538?style=for-the-badge&logo=sql&labelColor=F7D538)&nbsp;
+![Looker Studio](https://shields.io)
+![Machine Learning](https://shields.io)
