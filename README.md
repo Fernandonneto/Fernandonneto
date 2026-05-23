@@ -13,4 +13,4 @@
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power_BI-F7D538?style=for-the-badge&logo=sql&labelColor=F7D538)&nbsp; 
 ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=4285F4)&nbsp;
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)&nbsp;
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E)&nbsp;
