@@ -10,7 +10,7 @@
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=F2C811)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp; 
+![Power BI](https://img.shields.io/badge/-Power_BI-F7D538?style=for-the-badge&logo=sql&labelColor=F7D538)&nbsp;
 ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=4285F4)&nbsp;
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=F7931E)&nbsp;
