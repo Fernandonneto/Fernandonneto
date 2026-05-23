@@ -12,3 +12,4 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power_BI-F7D538?style=for-the-badge&logo=sql&labelColor=F7D538)&nbsp; 
+![Looker Studio](https://camo.githubusercontent.com/93c51ad67125e19e7310a7d17015908180b9a64d4c4824bfad9147a718153088/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6f6b65725f53747564696f2d3432383546343f7374796c653d666f722d7468652d6261646765266c6f676f3d676f6f676c65616e616c7974696373266c6f676f436f6c6f723d7768697465)
