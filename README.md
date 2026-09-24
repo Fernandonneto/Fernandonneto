@@ -2,11 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF28&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fernando+Neto;I'm+24+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-🎓 Bacharel em Biblioteconomia e Documentação - UFS
+🎓 Bacharel em Biblioteconomia e Documentação pela UFS
 
-📊 Data Analyst / Cientista de Dados em formação pela EBAC, com foco em análise de dados, visualização de dashboards e automação utilizando Python, SQL e Power BI.
+📊 Cientista de Dados, com foco em **Python, SQL, Estatística e Machine Learning**.
 
-🚀 Desenvolvendo projetos práticos voltados para Business Intelligence, organização estratégica da informação e tomada de decisão baseada em dados.
+🧠 Desenvolvendo projetos de Ciência de Dados envolvendo **ETL, EDA, Feature Engineering, modelagem preditiva e avaliação de modelos**.
+
+📈 Experiência profissional com **PostgreSQL e Power BI,** aplicando dados para análise e apoio à tomada de decisão.
+
+🚀 Portfólio com projetos práticos de **Machine Learning, análise exploratória e soluções orientadas por dados**.
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
